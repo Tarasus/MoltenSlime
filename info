@@ -4,7 +4,7 @@
   "name": "Molten slime",
   "content": "",
   "created_at": "2025-02-14 17:30:48",
-  "updated_at": "2025-02-15 00:55:10",
+  "updated_at": "2025-02-15 01:30:40",
   "stick": "",
   "documents": [
     {
@@ -18,11 +18,12 @@
         "09b0cfdc872a4e2f95469ce588fd1003": 1,
         "e3f6acd3425049ffa19c823b1b050c10": 1,
         "d6b39502b6ad4dceaa25835b413b5e6f": 1,
-        "e0730f5c402f4ea999e35d2bd050a738": 1,
         "b36c66c5ff74498b9bf8fe8f56915a17": 2,
         "5c9524b2dc494c3483e6c64051617af9": 1,
         "f942f8e244294bb7b1d0d99120824d33": 1,
-        "3788afaba36a4b92a0282328c1e48510": 1
+        "3788afaba36a4b92a0282328c1e48510": 1,
+        "fb0abce3d0094b729ad3c180a9def460": 1,
+        "838c930f99404debbecabd5ba71e72dc": 1
       },
       "BOM": [
         [
@@ -117,10 +118,22 @@
           }
         ],
         [
-          "KBB40-2P2W 2*3",
+          "SWITCH SOLDER PADS",
           2,
-          "KBB40-2P2W",
-          "U6,U7",
+          "SWITCH SOLDER PADS FOOTPRINT",
+          "U6,U10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SlimeVR aux tracker solder pads",
+          2,
+          "SLIMEVR AUX PADS",
+          "U7,U9",
           {
             "Manufacturer Part": "",
             "Manufacturer": "",
@@ -129,11 +142,11 @@
           }
         ]
       ],
-      "updateTime": 1739570000,
+      "updateTime": 1739572161,
       "createTime": 1739543448,
       "histories": [],
       "created_at": "2025-02-14 17:30:48",
-      "updated_at": "2025-02-15 00:53:20"
+      "updated_at": "2025-02-15 01:29:21"
     },
     {
       "uuid": "20404f27a17a26d8a1e2bec7b87d1bc8",
@@ -147,10 +160,11 @@
         "5c9524b2dc494c3483e6c64051617af9": 1,
         "3788afaba36a4b92a0282328c1e48510": 1,
         "b36c66c5ff74498b9bf8fe8f56915a17": 2,
-        "e0730f5c402f4ea999e35d2bd050a738": 1,
         "d6b39502b6ad4dceaa25835b413b5e6f": 1,
         "e3f6acd3425049ffa19c823b1b050c10": 1,
-        "09b0cfdc872a4e2f95469ce588fd1003": 1
+        "09b0cfdc872a4e2f95469ce588fd1003": 1,
+        "fb0abce3d0094b729ad3c180a9def460": 1,
+        "838c930f99404debbecabd5ba71e72dc": 1
       },
       "BOM": [
         [
@@ -161,22 +175,10 @@
           "CustomPara"
         ],
         [
-          "TP-4056-HW-373-LI-ION-CHARGER",
-          1,
-          "TP-4056-HW-373-LI-ION-CHANGER",
-          "A1",
-          {
-            "Manufacturer Part": "",
-            "Manufacturer": "",
-            "Supplier": "",
-            "Supplier Part": ""
-          }
-        ],
-        [
           "TP-4056",
-          1,
+          2,
           "TP-4056-HW-373-LI-ION-CHANGER",
-          "A2",
+          "A1,A2",
           {
             "Manufacturer Part": "",
             "Manufacturer": "",
@@ -221,22 +223,10 @@
           }
         ],
         [
-          "WEMOS_D1_MINI_PRO4",
-          1,
-          "DIP-16_WEMOS_D1_MINI_PRO4",
-          "U1",
-          {
-            "Manufacturer Part": "Wemos_D1_mini_Pro4",
-            "Manufacturer": "null",
-            "Supplier": "LCSC",
-            "Supplier Part": "C2837266"
-          }
-        ],
-        [
           "WEMOS D1 MINI",
-          1,
+          2,
           "DIP-16_WEMOS_D1_MINI_PRO4",
-          "U2",
+          "U1,U2",
           {
             "Manufacturer Part": "Wemos_D1_mini_Pro4",
             "Manufacturer": "null",
@@ -269,10 +259,22 @@
           }
         ],
         [
-          "KBB40-2P2W 2*3",
+          "SWITCH SOLDER PADS",
           2,
-          "KBB40-2P2W",
-          "U6,U7",
+          "SWITCH SOLDER PADS FOOTPRINT",
+          "U6,U10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SlimeVR aux tracker solder pads",
+          2,
+          "SLIMEVR AUX PADS",
+          "U7,U9",
           {
             "Manufacturer Part": "",
             "Manufacturer": "",
@@ -281,11 +283,11 @@
           }
         ]
       ],
-      "updateTime": 1739569868,
+      "updateTime": 1739572240,
       "createTime": 1739569401,
       "histories": [],
       "created_at": "2025-02-15 00:43:21",
-      "updated_at": "2025-02-15 00:51:08"
+      "updated_at": "2025-02-15 01:30:40"
     },
     {
       "uuid": "2409b9a72d138d840128c8afdc353ae7",
@@ -441,11 +443,12 @@
         "f9b6c4acbda64b569861a21e133c291c": 2,
         "95f132a959ea4680bde3a1377fbbef7b": 1,
         "3ccc9ae6eb554ebeaccac0dce68e618b": 1,
-        "85b07549fcd14d1ca9d99302c2762b2d": 1,
         "c7c4da87c9bb4279a37c98cf92e61dca": 1,
         "e4ea8d630f144875bab652bc29d97572": 1,
         "f440a59b3178469cb3299e23a670adbc": 1,
-        "562d77a546a24e4f83c78207be689c00": 1
+        "562d77a546a24e4f83c78207be689c00": 1,
+        "73b37e35f4374a60b52aba36fe0e1f20": 1,
+        "b76ae74ca8bf4007a5f9f2484ddcb97a": 1
       },
       "BOM": [
         [
@@ -564,11 +567,11 @@
           }
         ]
       ],
-      "updateTime": 1739570073,
+      "updateTime": 1739572192,
       "createTime": 1739570073,
       "histories": [],
       "created_at": "2025-02-15 00:54:33",
-      "updated_at": "2025-02-15 00:54:33"
+      "updated_at": "2025-02-15 01:29:52"
     },
     {
       "uuid": "c6b3c070bf4a3dd8a551d60d990ff6aa",
@@ -770,5 +773,5 @@
   "title": "Molten slime",
   "foldername": "Molten slime",
   "schfilename": "Molten slime.json",
-  "schfilemtime": 1739570000293
+  "schfilemtime": 1739572240996
 }
