@@ -4,12 +4,12 @@
   "name": "Molten slime",
   "content": "",
   "created_at": "2025-02-14 17:30:48",
-  "updated_at": "2025-02-14 17:44:02",
+  "updated_at": "2025-02-15 00:55:10",
   "stick": "",
   "documents": [
     {
       "uuid": "81feac49a2ac7c0b5f01a5e25d873937",
-      "title": "Sheet_1",
+      "title": "Molten Slime all connected",
       "description": "",
       "docType": "1",
       "master": "",
@@ -20,9 +20,290 @@
         "d6b39502b6ad4dceaa25835b413b5e6f": 1,
         "e0730f5c402f4ea999e35d2bd050a738": 1,
         "b36c66c5ff74498b9bf8fe8f56915a17": 2,
-        "3788afaba36a4b92a0282328c1e48510": 1,
         "5c9524b2dc494c3483e6c64051617af9": 1,
-        "f942f8e244294bb7b1d0d99120824d33": 1
+        "f942f8e244294bb7b1d0d99120824d33": 1,
+        "3788afaba36a4b92a0282328c1e48510": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "TP-4056",
+          2,
+          "TP-4056-HW-373-LI-ION-CHANGER",
+          "A1,A2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BH-18650-PC",
+          2,
+          "BH18650PC",
+          "BT1,BT2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N5817",
+          4,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-RD",
+          "D1,D2,D3,D4",
+          {
+            "Manufacturer Part": "1N5817",
+            "Manufacturer": "YANGJIE(扬杰)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C698892"
+          }
+        ],
+        [
+          "180k",
+          2,
+          "RESISTOR_THT_12,7MM",
+          "R1,R2",
+          {
+            "Manufacturer Part": "MFR-25FTE52-180K",
+            "Manufacturer": "YAGEO",
+            "Supplier": "LCSC",
+            "Supplier Part": "C172975"
+          }
+        ],
+        [
+          "WEMOS D1 MINI",
+          2,
+          "DIP-16_WEMOS_D1_MINI_PRO4",
+          "U1,U2",
+          {
+            "Manufacturer Part": "Wemos_D1_mini_Pro4",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2837266"
+          }
+        ],
+        [
+          "BMI-160",
+          2,
+          "BMI-160 MODULE UNDER FOOTPRINT",
+          "U3,U8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "GY-271",
+          2,
+          "GY-271",
+          "U4,U5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "KBB40-2P2W 2*3",
+          2,
+          "KBB40-2P2W",
+          "U6,U7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1739570000,
+      "createTime": 1739543448,
+      "histories": [],
+      "created_at": "2025-02-14 17:30:48",
+      "updated_at": "2025-02-15 00:53:20"
+    },
+    {
+      "uuid": "20404f27a17a26d8a1e2bec7b87d1bc8",
+      "title": "Molten Slime separated",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f942f8e244294bb7b1d0d99120824d33": 1,
+        "5c9524b2dc494c3483e6c64051617af9": 1,
+        "3788afaba36a4b92a0282328c1e48510": 1,
+        "b36c66c5ff74498b9bf8fe8f56915a17": 2,
+        "e0730f5c402f4ea999e35d2bd050a738": 1,
+        "d6b39502b6ad4dceaa25835b413b5e6f": 1,
+        "e3f6acd3425049ffa19c823b1b050c10": 1,
+        "09b0cfdc872a4e2f95469ce588fd1003": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "TP-4056-HW-373-LI-ION-CHARGER",
+          1,
+          "TP-4056-HW-373-LI-ION-CHANGER",
+          "A1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "TP-4056",
+          1,
+          "TP-4056-HW-373-LI-ION-CHANGER",
+          "A2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BH-18650-PC",
+          2,
+          "BH18650PC",
+          "BT1,BT2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N5817",
+          4,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-RD",
+          "D1,D2,D3,D4",
+          {
+            "Manufacturer Part": "1N5817",
+            "Manufacturer": "YANGJIE(扬杰)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C698892"
+          }
+        ],
+        [
+          "180k",
+          2,
+          "RESISTOR_THT_12,7MM",
+          "R1,R2",
+          {
+            "Manufacturer Part": "MFR-25FTE52-180K",
+            "Manufacturer": "YAGEO",
+            "Supplier": "LCSC",
+            "Supplier Part": "C172975"
+          }
+        ],
+        [
+          "WEMOS_D1_MINI_PRO4",
+          1,
+          "DIP-16_WEMOS_D1_MINI_PRO4",
+          "U1",
+          {
+            "Manufacturer Part": "Wemos_D1_mini_Pro4",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2837266"
+          }
+        ],
+        [
+          "WEMOS D1 MINI",
+          1,
+          "DIP-16_WEMOS_D1_MINI_PRO4",
+          "U2",
+          {
+            "Manufacturer Part": "Wemos_D1_mini_Pro4",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2837266"
+          }
+        ],
+        [
+          "BMI-160",
+          2,
+          "BMI-160 MODULE UNDER FOOTPRINT",
+          "U3,U8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "GY-271",
+          2,
+          "GY-271",
+          "U4,U5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "KBB40-2P2W 2*3",
+          2,
+          "KBB40-2P2W",
+          "U6,U7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1739569868,
+      "createTime": 1739569401,
+      "histories": [],
+      "created_at": "2025-02-15 00:43:21",
+      "updated_at": "2025-02-15 00:51:08"
+    },
+    {
+      "uuid": "2409b9a72d138d840128c8afdc353ae7",
+      "puuid": "8dfe36887a589e94b80a191c434c6428",
+      "title": "Molten slime v.0.1",
+      "filename": "Molten slime v.0.1.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "7d92eb0ef3834c59a670a86b63a5b446": 1,
+        "3ccc9ae6eb554ebeaccac0dce68e618b": 1,
+        "c2803222ad4b48fb94db0de548a6280a": 2,
+        "0b0bcb77f4ab4f86ae229e34fc1b55e5": 1,
+        "562d77a546a24e4f83c78207be689c00": 1,
+        "95f132a959ea4680bde3a1377fbbef7b": 1,
+        "43a06019b26a4628a420d96d19addf0d": 1
       },
       "BOM": [
         [
@@ -48,7 +329,7 @@
           "BH-18650-PC",
           1,
           "BH18650PC",
-          "BT1",
+          "18650",
           {
             "Manufacturer Part": "",
             "Manufacturer": "",
@@ -72,7 +353,7 @@
           "180k_1%",
           1,
           "RESISTOR_THT_12,7MM",
-          "R2",
+          "180K",
           {
             "Manufacturer Part": "MFR-25FTE52-180K",
             "Manufacturer": "YAGEO",
@@ -84,24 +365,12 @@
           "WEMOS_D1_MINI_PRO4",
           1,
           "DIP-16_WEMOS_D1_MINI_PRO4",
-          "U1",
+          "D1",
           {
             "Manufacturer Part": "Wemos_D1_mini_Pro4",
             "Manufacturer": "null",
             "Supplier": "LCSC",
             "Supplier Part": "C2837266"
-          }
-        ],
-        [
-          "BMI-160 Module Under Footprint",
-          1,
-          "BMI-160 MODULE UNDER FOOTPRINT",
-          "U3",
-          {
-            "Manufacturer Part": "",
-            "Manufacturer": "",
-            "Supplier": "",
-            "Supplier Part": ""
           }
         ],
         [
@@ -117,10 +386,34 @@
           }
         ],
         [
-          "KBB40-2P2W 2*3",
+          "SWITCH_PADS",
           1,
-          "KBB40-2P2W",
-          "U6",
+          "",
+          "SW",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BMI-160 MODULE UNDER FOOTPRINT STRIPPED",
+          1,
+          "BMI-160 MODULE UNDER FOOTPRINT STRIPPED",
+          "U9",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "AUX_PADS",
+          1,
+          "",
+          "AUX",
           {
             "Manufacturer Part": "",
             "Manufacturer": "",
@@ -129,53 +422,21 @@
           }
         ]
       ],
-      "updateTime": 1739543636,
-      "createTime": 1739543448,
+      "updateTime": 1739570032,
+      "createTime": 1739570032,
       "histories": [],
-      "created_at": "2025-02-14 17:30:48",
-      "updated_at": "2025-02-14 17:33:56"
+      "created_at": "2025-02-15 00:53:52",
+      "updated_at": "2025-02-15 00:53:52"
     },
     {
-      "uuid": "271501291c5752504c6907953231cf72",
-      "title": "1-PCB_PCB_slime_4",
-      "filename": "1-PCB_PCB_slime_4.json",
+      "uuid": "ad405ee62196c6dc2228da577d8b9724",
+      "puuid": "8dfe36887a589e94b80a191c434c6428",
+      "title": "Molten Slime v1",
+      "filename": "Molten Slime v1.json",
       "description": "",
       "docType": "3",
       "master": "",
       "thumb": "/images/thumb-default.png",
-      "updateTime": 1739531264,
-      "createTime": 1739531264,
-      "histories": [],
-      "created_at": "2025-02-14 14:07:44",
-      "updated_at": "2025-02-14 14:07:44"
-    },
-    {
-      "uuid": "17fdaa066c293b23c01281d94a60a1df",
-      "title": "2-PCB_PCB_Frozen Slimes v2 Both Single",
-      "filename": "2-PCB_PCB_Frozen Slimes v2 Both Single.json",
-      "description": "",
-      "docType": "3",
-      "master": "",
-      "thumb": "/images/thumb-default.png",
-      "updateTime": 1739531264,
-      "createTime": 1739531264,
-      "histories": [],
-      "created_at": "2025-02-14 14:07:44",
-      "updated_at": "2025-02-14 14:07:44"
-    },
-    {
-      "uuid": "4b261d33775580992c2442a2a56c7d12",
-      "title": "3-PCB_PCB_molten_slime_v1",
-      "filename": "3-PCB_PCB_molten_slime_v1.json",
-      "description": "",
-      "docType": "3",
-      "master": "",
-      "thumb": "/images/thumb-default.png",
-      "updateTime": 1739544242,
-      "createTime": 1739531264,
-      "histories": [],
-      "created_at": "2025-02-14 14:07:44",
-      "updated_at": "2025-02-14 17:44:02",
       "components": {
         "f9b6c4acbda64b569861a21e133c291c": 2,
         "95f132a959ea4680bde3a1377fbbef7b": 1,
@@ -185,12 +446,329 @@
         "e4ea8d630f144875bab652bc29d97572": 1,
         "f440a59b3178469cb3299e23a670adbc": 1,
         "562d77a546a24e4f83c78207be689c00": 1
-      }
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1N5817-T",
+          2,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-FD",
+          "D1,D2",
+          {
+            "Manufacturer Part": "1N5817-T",
+            "Manufacturer": "DIODES(美台)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C507852"
+          }
+        ],
+        [
+          "_",
+          1,
+          "",
+          "AUX",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "GY-271",
+          1,
+          "GY-271",
+          "GY-271",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BH-18650-PC",
+          1,
+          "BH18650PC",
+          "18650",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Switch connector",
+          1,
+          "2XSOLDERPAD",
+          "SWITCH",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "IMU-BMI160",
+          1,
+          "IMU-BMI160",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "Direnc",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "TP4056",
+          1,
+          "TP4056",
+          "U5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "R180K",
+          1,
+          "ER RESISTOR 180K/0.6 W",
+          "U10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "WEMOS_D1_MINI_PRO4",
+          1,
+          "DIP-16_WEMOS_D1_MINI_PRO4",
+          "U11",
+          {
+            "Manufacturer Part": "Wemos_D1_mini_Pro4",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2837266"
+          }
+        ]
+      ],
+      "updateTime": 1739570073,
+      "createTime": 1739570073,
+      "histories": [],
+      "created_at": "2025-02-15 00:54:33",
+      "updated_at": "2025-02-15 00:54:33"
+    },
+    {
+      "uuid": "c6b3c070bf4a3dd8a551d60d990ff6aa",
+      "puuid": "8dfe36887a589e94b80a191c434c6428",
+      "title": "Frozen Slimes v2 Both Single",
+      "filename": "Frozen Slimes v2 Both Single.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "44e2fa35798844eb8811a73b59380ad0": 1,
+        "083fe3b6891a4a928e327445ba4859b1": 3,
+        "85b07549fcd14d1ca9d99302c2762b2d": 4,
+        "7379b1a348004479bf0688509a2224ea": 1,
+        "105d549b433940fabcf03ce5f5faeff8": 1,
+        "f9b6c4acbda64b569861a21e133c291c": 2,
+        "c7c4da87c9bb4279a37c98cf92e61dca": 1,
+        "e4ea8d630f144875bab652bc29d97572": 1,
+        "f440a59b3178469cb3299e23a670adbc": 1,
+        "562d77a546a24e4f83c78207be689c00": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "MPU6050-2",
+          1,
+          "MPU6050-2",
+          "1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "gnd",
+          1,
+          "SOLDERJUMPER",
+          "BNO",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          ".",
+          3,
+          "2XSOLDERPAD",
+          "U6,U8,U9",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "GY-BNO080-NO-HOLE",
+          1,
+          "GY-BNO080",
+          "U7",
+          {
+            "Manufacturer Part": "GY-BNO080",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": "GY-BNO080"
+          }
+        ],
+        [
+          "int",
+          1,
+          "SOLDERJUMPER",
+          "U12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SOLDERJUMPER NORMAL",
+          1,
+          "SOLDERJUMPER",
+          "BMI",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Switch connector",
+          1,
+          "2XSOLDERPAD",
+          "SWITCH",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BH-18650-B1BA002",
+          1,
+          "BATTERY-SMD_18650-1S-L77.1-W20.7-1",
+          "BATT1",
+          {
+            "Manufacturer Part": "BH-18650-B1BA002",
+            "Manufacturer": "MYOUNG(美阳)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2988620"
+          }
+        ],
+        [
+          "1N5817-T",
+          2,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-FD",
+          "D3,D4",
+          {
+            "Manufacturer Part": "1N5817-T",
+            "Manufacturer": "DIODES(美台)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C507852"
+          }
+        ],
+        [
+          "IMU-BMI160",
+          1,
+          "IMU-BMI160",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "Direnc",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "TP4056",
+          1,
+          "TP4056",
+          "U5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "R180K",
+          1,
+          "ER RESISTOR 180K/0.6 W",
+          "U10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "WEMOS_D1_MINI_PRO4",
+          1,
+          "DIP-16_WEMOS_D1_MINI_PRO4",
+          "U11",
+          {
+            "Manufacturer Part": "Wemos_D1_mini_Pro4",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2837266"
+          }
+        ]
+      ],
+      "updateTime": 1739570094,
+      "createTime": 1739570094,
+      "histories": [],
+      "created_at": "2025-02-15 00:54:54",
+      "updated_at": "2025-02-15 00:54:54"
     }
   ],
-  "sort": [],
+  "sort": [
+    "81feac49a2ac7c0b5f01a5e25d873937",
+    "20404f27a17a26d8a1e2bec7b87d1bc8"
+  ],
   "title": "Molten slime",
   "foldername": "Molten slime",
   "schfilename": "Molten slime.json",
-  "schfilemtime": 1739543636351
+  "schfilemtime": 1739570000293
 }
