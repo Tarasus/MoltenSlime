@@ -4,7 +4,7 @@
   "name": "Molten slime",
   "content": "",
   "created_at": "2025-02-14 17:30:48",
-  "updated_at": "2025-02-14 17:33:56",
+  "updated_at": "2025-02-14 17:44:02",
   "stick": "",
   "documents": [
     {
@@ -171,11 +171,21 @@
       "docType": "3",
       "master": "",
       "thumb": "/images/thumb-default.png",
-      "updateTime": 1739531264,
+      "updateTime": 1739544242,
       "createTime": 1739531264,
       "histories": [],
       "created_at": "2025-02-14 14:07:44",
-      "updated_at": "2025-02-14 14:07:44"
+      "updated_at": "2025-02-14 17:44:02",
+      "components": {
+        "f9b6c4acbda64b569861a21e133c291c": 2,
+        "95f132a959ea4680bde3a1377fbbef7b": 1,
+        "3ccc9ae6eb554ebeaccac0dce68e618b": 1,
+        "85b07549fcd14d1ca9d99302c2762b2d": 1,
+        "c7c4da87c9bb4279a37c98cf92e61dca": 1,
+        "e4ea8d630f144875bab652bc29d97572": 1,
+        "f440a59b3178469cb3299e23a670adbc": 1,
+        "562d77a546a24e4f83c78207be689c00": 1
+      }
     }
   ],
   "sort": [],
