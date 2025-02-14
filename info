@@ -1,0 +1,186 @@
+{
+  "uuid": "8dfe36887a589e94b80a191c434c6428",
+  "path": "Offline/Molten%20slime",
+  "name": "Molten slime",
+  "content": "",
+  "created_at": "2025-02-14 17:30:48",
+  "updated_at": "2025-02-14 17:33:56",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "81feac49a2ac7c0b5f01a5e25d873937",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "09b0cfdc872a4e2f95469ce588fd1003": 1,
+        "e3f6acd3425049ffa19c823b1b050c10": 1,
+        "d6b39502b6ad4dceaa25835b413b5e6f": 1,
+        "e0730f5c402f4ea999e35d2bd050a738": 1,
+        "b36c66c5ff74498b9bf8fe8f56915a17": 2,
+        "3788afaba36a4b92a0282328c1e48510": 1,
+        "5c9524b2dc494c3483e6c64051617af9": 1,
+        "f942f8e244294bb7b1d0d99120824d33": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "TP-4056-HW-373-LI-ION-CHARGER",
+          1,
+          "TP-4056-HW-373-LI-ION-CHANGER",
+          "A1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BH-18650-PC",
+          1,
+          "BH18650PC",
+          "BT1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N5817_C698892",
+          2,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-RD",
+          "D1,D2",
+          {
+            "Manufacturer Part": "1N5817",
+            "Manufacturer": "YANGJIE(扬杰)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C698892"
+          }
+        ],
+        [
+          "180k_1%",
+          1,
+          "RESISTOR_THT_12,7MM",
+          "R2",
+          {
+            "Manufacturer Part": "MFR-25FTE52-180K",
+            "Manufacturer": "YAGEO",
+            "Supplier": "LCSC",
+            "Supplier Part": "C172975"
+          }
+        ],
+        [
+          "WEMOS_D1_MINI_PRO4",
+          1,
+          "DIP-16_WEMOS_D1_MINI_PRO4",
+          "U1",
+          {
+            "Manufacturer Part": "Wemos_D1_mini_Pro4",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2837266"
+          }
+        ],
+        [
+          "BMI-160 Module Under Footprint",
+          1,
+          "BMI-160 MODULE UNDER FOOTPRINT",
+          "U3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "GY-271",
+          1,
+          "GY-271",
+          "U5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "KBB40-2P2W 2*3",
+          1,
+          "KBB40-2P2W",
+          "U6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1739543636,
+      "createTime": 1739543448,
+      "histories": [],
+      "created_at": "2025-02-14 17:30:48",
+      "updated_at": "2025-02-14 17:33:56"
+    },
+    {
+      "uuid": "271501291c5752504c6907953231cf72",
+      "title": "1-PCB_PCB_slime_4",
+      "filename": "1-PCB_PCB_slime_4.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1739531264,
+      "createTime": 1739531264,
+      "histories": [],
+      "created_at": "2025-02-14 14:07:44",
+      "updated_at": "2025-02-14 14:07:44"
+    },
+    {
+      "uuid": "17fdaa066c293b23c01281d94a60a1df",
+      "title": "2-PCB_PCB_Frozen Slimes v2 Both Single",
+      "filename": "2-PCB_PCB_Frozen Slimes v2 Both Single.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1739531264,
+      "createTime": 1739531264,
+      "histories": [],
+      "created_at": "2025-02-14 14:07:44",
+      "updated_at": "2025-02-14 14:07:44"
+    },
+    {
+      "uuid": "4b261d33775580992c2442a2a56c7d12",
+      "title": "3-PCB_PCB_molten_slime_v1",
+      "filename": "3-PCB_PCB_molten_slime_v1.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1739531264,
+      "createTime": 1739531264,
+      "histories": [],
+      "created_at": "2025-02-14 14:07:44",
+      "updated_at": "2025-02-14 14:07:44"
+    }
+  ],
+  "sort": [],
+  "title": "Molten slime",
+  "foldername": "Molten slime",
+  "schfilename": "Molten slime.json",
+  "schfilemtime": 1739543636351
+}
